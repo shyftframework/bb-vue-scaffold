@@ -1,0 +1,29 @@
+<catalog>
+    <widget>
+        <name>widget-vue</name>
+        <contextItemName>[BBHOST]</contextItemName>
+        <properties>
+            <property label="Title" name="title" viewHint="text-input,admin">
+                <value type="string">vue</value>
+            </property>
+            <property name="TemplateName">
+                <value type="string">Standard_Widget</value>
+            </property>
+            <property name="src">
+                <value type="string">$(itemRoot)/index.html</value>
+            </property>
+            <property name="version">
+                <value type="string">0.1.0-alpha.0</value>
+            </property>
+            <property name="thumbnailUrl">
+                <value type="string">$(itemRoot)/icon.png</value>
+            </property>
+            <property name="order">
+                <value type="double">0</value>
+            </property>
+            <property name="area">
+                <value type="string">0</value>
+            </property>
+        </properties>
+    </widget>
+</catalog>
