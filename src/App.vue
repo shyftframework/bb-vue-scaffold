@@ -36,6 +36,11 @@ export default {
 </script>
 
 <style lang="scss">
+// import uikit sass files
+@import "assets/scss/variables.scss";
+@import "assets/scss/uikit.scss";
+@import "assets/scss/components/_import.scss";
+
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -46,6 +51,7 @@ export default {
 }
 
 h1, h2 {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
   font-weight: normal;
 }
 
