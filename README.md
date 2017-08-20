@@ -1,8 +1,15 @@
-# backbase-vue
-
-> A Vue.js project
+# Vue.js based Backbase widget
+* [Node](https://nodejs.org/en/) 
+* [Vue](https://vuejs.org/)
+* [Sass](http://sass-lang.com/) 
+* [Pug](https://pugjs.org/api/getting-started.html)
+* [Webpack](https://webpack.github.io/) 
+* [Backbase](https://backbase.com/platform/) 
+* [Uikit](https://getuikit.com/) 
+* [jQuery](https://jquery.com/) 
 
 ## Build Setup
+Simple and straight forward setup 
 
 ``` bash
 # install dependencies
